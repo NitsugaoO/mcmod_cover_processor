@@ -2,7 +2,7 @@
 
 把正方形模组封面图片转换为 MC 百科要求的模组封面规格.
 
-Python 代码, 使用 Deepseek 写的.
+Python 代码, 使用 DeepSeek 写的.
 
 使用前需先安装 Python 和 ````pillow```` 库:
 
@@ -12,4 +12,4 @@ Python 代码, 使用 Deepseek 写的.
 
 处理后的图片保存在原图同一目录, 文件名添加 _processed 后缀.
 
-Tips: 可以通过 CurseForge 的模组封面 url 去除 ````/thumbnails```` 和 ````/64/64```` 字段得到高清模组封面图.
+Tips: 可以通过对 CurseForge 的模组封面 url 去除 ````/thumbnails```` 和 ````/64/64```` 字段得到高清模组封面图.
