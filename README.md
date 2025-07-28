@@ -8,7 +8,7 @@ Python 代码, 使用 Deepseek 写的.
 
 ````pip install pillow````
 
-然后你可以将正方形的图片直接拖到这个 image_processor.py 文件上 (文件设置为使用 Python 运行), 或者用 ````python image_processor.py 图片文件````
+然后你可以将正方形的图片直接拖到这个 image_processor.py 文件上 (文件设置为使用 Python 运行), 或者运行 .py 文件把图片拖到窗口中, 或者用 ````python image_processor.py 图片文件````
 
 处理后的图片保存在原图同一目录, 文件名添加 _processed 后缀.
 
